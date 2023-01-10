@@ -2,7 +2,7 @@ package xyz.siopa.retrofit_app.utils
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
-import xyz.siopa.retrofit_app.api.PostApi
+import xyz.siopa.retrofit_app.model.api.PostApi
 import xyz.siopa.retrofit_app.utils.Constants.Companion.BASE_URL
 
 object RetrofitInstance {

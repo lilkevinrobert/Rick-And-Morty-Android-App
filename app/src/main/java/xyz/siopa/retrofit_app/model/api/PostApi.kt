@@ -1,4 +1,4 @@
-package xyz.siopa.retrofit_app.api
+package xyz.siopa.retrofit_app.model.api
 
 import retrofit2.http.GET
 import retrofit2.http.Path
